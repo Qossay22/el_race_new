@@ -1,0 +1,25 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Pods/
+android/.gradle/
+android/app/build/
+.idea/
+.vscode/
+*.iml
+*.log
+*.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Other
+*.tmp
+*.bak
+run_log.txt

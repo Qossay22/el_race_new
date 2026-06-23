@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Z9KA83YY82.com.elRace.elRace",
+        "paths": [
+          "/RCC4/Requirements/qrcodeapp",
+          "/RCC4/Requirements/qrcodeapp.php"
+        ]
+      }
+    ]
+  }
+}

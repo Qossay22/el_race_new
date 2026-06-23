@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.el_race.app",
+      "sha256_cert_fingerprints": [
+        "E1:6B:F9:B1:BE:64:BE:CA:C2:57:A0:E9:2D:5F:D3:26:22:A2:D3:8C:89:6D:CC:7B:F0:16:7C:5E:92:49:86:14"
+      ]
+    }
+  }
+]

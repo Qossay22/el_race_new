@@ -1,0 +1,9 @@
+# Copy this file to android/key.properties and replace placeholders with real values.
+# Do not commit android/key.properties (it contains secrets).
+# Alternatively, set these environment variables instead of creating key.properties:
+# ANDROID_KEYSTORE_PATH, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD.
+
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=YOUR_KEY_ALIAS
+storeFile=C:/absolute/path/to/your-upload-keystore.jks
